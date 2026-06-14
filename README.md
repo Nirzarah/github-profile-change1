@@ -1,5 +1,7 @@
 # 💫 About Me:
 HELLO WORLD!!!<br> I’m  an AI/ML practitioner and web developer passionate about building intelligent systems and scalable web applications with a focus on creating solutions that are both technically robust and user-friendly.
+---
+[![](https://komarev.com/ghpvc/?username=Nirzarah&profileview3.4k)]
 
 
 ## 🌐 Socials:
@@ -12,7 +14,6 @@ HELLO WORLD!!!<br> I’m  an AI/ML practitioner and web developer passionate abo
 ![](https://streak-stats.demolab.com/?user=Nirzarah&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nirzarah&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Nirzarah&profileview3.4k)]
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
