@@ -1,7 +1,9 @@
-# 💫 About Me:
+# 💫 About Me:                                                                                       
 HELLO WORLD!!!<br> I’m  an AI/ML practitioner and web developer passionate about building intelligent systems and scalable web applications with a focus on creating solutions that are both technically robust and user-friendly.
 ---
-----------------------------------------------------------------------------------------------------[![](https://komarev.com/ghpvc/?username=Nirzarah&profileview3.4k)]
+
+
+![](https://komarev.com/ghpvc/?username=Nirzarah&profileview3.4k)
 
 
 ## 🌐 Socials:
